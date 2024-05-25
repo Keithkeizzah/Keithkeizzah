@@ -8,12 +8,12 @@
 <hr/>
 <h4 align="center">𝐈 𝐚𝐦 𝐊𝐞𝐢𝐭𝐡 𝐓𝐞𝐜𝐡 𝐩𝐚𝐥.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="khrlmstfa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=keithkeizzah&label=Profile%20views&color=0e75b6&style=plastic" alt="keithkeizzah" /> </p>
 
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khrlmstfa&theme=algolia" alt="khrlmstfa"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keithkeizzah&theme=algolia" alt="keithkeizzah"  /></p>
 
 <p align="left"> 
 
@@ -37,7 +37,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/khrlmstfa/github-readme-stats"><img alt="khrlmstfa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khrlmstfa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/keithkeizzah/github-readme-stats"><img alt="keithkeizzah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
